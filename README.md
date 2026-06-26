@@ -32,13 +32,13 @@ Business Insights
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Dashboard_Images/Executive_Overview.png)
+![Executive Overview](Images_of_Dashboard/Executive_Overview.png)
 
 ### Customer Churn Analysis
-![Customer Churn Analysis](Dashboard_Images/Customer_Churn_Analysis.png)
+![Customer Churn Analysis](Images_of_Dashboard/Customer_Churn_Analysis.png)
 
 ### Revenue & Churn Drivers
-![Revenue & Churn Drivers](Dashboard_Images/Revenue_&_Churn_Drivers.png)
+![Revenue & Churn Drivers](Images_of_Dashboard/Revenue_&_Churn_Drivers.png)
 ---
 
 ##  Key Insights
