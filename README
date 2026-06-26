@@ -1,6 +1,6 @@
 #  Telecom Customer Churn Analysis
 
-An end-to-end data analytics project that explores customer churn in a telecom company using **Python**, **PostgreSQL**, and **Power BI**. The project focuses on identifying churn patterns, analyzing revenue impact, and building an interactive dashboard to support business decisions.
+An end-to-end data analytics project that analyzes customer churn using **Python**, **PostgreSQL**, and **Power BI**. The project identifies churn patterns, revenue impact, and customer behavior through data cleaning, SQL analysis, and interactive dashboards.
 
 ---
 
@@ -10,39 +10,40 @@ An end-to-end data analytics project that explores customer churn in a telecom c
 * PostgreSQL
 * Power BI
 * DAX
-* Git & GitHub
 
 ---
 
 ##  Workflow
 
-```
-Raw Dataset
-    ↓
-Data Cleaning (Python)
-    ↓
-Exploratory Data Analysis
-    ↓
-PostgreSQL Analysis
-    ↓
+```text
+Raw Data
+   ↓
+Python (Cleaning & EDA)
+   ↓
+PostgreSQL (Business Analysis)
+   ↓
 Power BI Dashboard
-    ↓
+   ↓
 Business Insights
 ```
 
 ---
 
-##  Dashboard
+#  Dashboard Preview
 
-### Executive Overview
+## Executive Overview
 
 ![Executive Overview](Dashboard%20Images/Executive_Overview.png)
 
-### Customer Churn Analysis
+---
+
+## Customer Churn Analysis
 
 ![Customer Churn Analysis](Dashboard%20Images/Customer_Churn_Analysis.png)
 
-### Revenue & Churn Drivers
+---
+
+## Revenue & Churn Drivers
 
 ![Revenue & Churn Drivers](Dashboard%20Images/Revenue_%26_Churn_Drivers.png)
 
@@ -50,18 +51,18 @@ Business Insights
 
 ##  Key Insights
 
-* Customer churn rate: **26.54%**
+* Overall churn rate: **26.54%**
 * Month-to-Month contracts have the highest churn.
 * Fiber Optic customers are more likely to churn.
-* New customers (low tenure) churn the most.
-* Competitor-related reasons account for most customer losses.
+* Customers with shorter tenure show higher churn.
+* Competitor-related reasons are the leading cause of customer loss.
 * Revenue at risk exceeds **$3.6M**.
 
 ---
 
 ##  Repository Structure
 
-```
+```text
 Telecom-Customer-Churn-Analysis
 │
 ├── Dataset
@@ -78,4 +79,4 @@ Telecom-Customer-Churn-Analysis
 
 **Kunal Muneshwar**
 
-Aspiring Data Analyst | Python • SQL • PostgreSQL • Power BI
+Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI
